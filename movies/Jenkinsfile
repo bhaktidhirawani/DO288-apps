@@ -10,7 +10,7 @@ pipeline {
     }
 
     environment {
-        DEV_PROJECT = "pjmasa-rmovies-dev"
+        DEV_PROJECT = "pjmasa-movies-dev"
         STAGE_PROJECT = "pjmasa-movies-stage"
         APP_GIT_URL = "https://github.com/bhaktidhirawani/DO288-apps"
         NEXUS_SERVER = "http://nexus-common.apps.ap45.prod.nextcle.com/repository/java"
